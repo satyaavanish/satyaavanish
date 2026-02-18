@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning **ReactJS, Angular, etc.**
 - 👨‍💻 All of my projects are available at [https://github.com/satyaavanish](https://github.com/satyaavanish)
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Java, C**
-- 📫 How to reach me **satyaavanishp@gmail.com**
+- 📫 How to reach me **satyaavanish15@gmail.com**
 
 ---
 
