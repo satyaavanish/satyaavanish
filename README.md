@@ -140,22 +140,6 @@ A fully object-oriented browser game with smooth physics, global leaderboards, a
 `JavaScript` `Node.js` `Express` `MongoDB Atlas` `Geolocation API`
 
 </td>
-<td width="50%" valign="top">
-
-### 📊 Student Feedback Analytics
-**Mess Feedback & Reporting System**
-
-Collects student feedback, processes it, and generates actionable weekly/monthly insights — exported as Excel and PDF reports for administrators.
-
-**Highlights:**
-- Automated report generation (Excel/PDF)
-- Weekly, monthly & student-wise breakdowns
-- Backend-driven analytics pipeline
-- Clean admin dashboard interface
-
-`MySQL` `Node.js` `Express` `Backend Processing`
-
-</td>
 </tr>
 </table>
 
