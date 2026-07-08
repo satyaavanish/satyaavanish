@@ -172,7 +172,7 @@ A fully object-oriented browser game with smooth physics, global leaderboards, a
 
 | Certification | Issuer | Domain |
 |---|---|---|
-| ☁️ AWS Cloud Practitioner Essentials | Amazon Web Services | Cloud Computing |
+| ☁️ AWS Certified Solutions Architect – Associate | Amazon Web Services | Cloud Computing |
 | 🤖 Generative AI Professional | Oracle | Artificial Intelligence |
 | ☕ Java Programming | IIT Kharagpur (NPTEL) | Programming |
 
