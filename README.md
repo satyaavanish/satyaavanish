@@ -10,7 +10,7 @@
 ```
 
 ### `AVANISH`
-#### Full Stack Developer · Generative AI Engineer · 3rd Year CSE
+#### Full Stack Developer · Generative AI Engineer · 4th Year CSE
 
 [![Profile Views](https://komarev.com/ghpvc/?username=satyaavanish&label=Profile+Views&color=00d4ff&style=flat-square)](https://github.com/satyaavanish)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/satya-avanish-pulavarthi/)
