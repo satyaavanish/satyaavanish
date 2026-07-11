@@ -192,7 +192,7 @@ EC2  ·  S3  ·  Lambda  ·  DynamoDB  ·  CloudWatch  ·  Web Application Firew
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  Currently: Building AI-powered systems @ 3rd Year  │
+│  Currently: Building AI-powered systems @ 4th Year  │
 │  Next Up:   LLM Pipelines · Advanced AWS · WebGL    │
 │  Goal:      Ship products that matter               │
 └─────────────────────────────────────────────────────┘
