@@ -27,7 +27,7 @@
 ```yaml
 name        : Avanish
 role        : Full Stack Developer & Generative AI Engineer
-education   : B.Tech CSE — 3rd Year
+education   : B.Tech CSE —  4th Year
 focus       : AI-Driven Applications · Cloud Architectures · 3D Web Experiences
 superpower  : Building production-grade systems that solve real problems
 status      : [ ACTIVELY BUILDING ] 🚀
